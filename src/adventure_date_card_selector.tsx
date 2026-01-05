@@ -124,7 +124,7 @@ export default function AdventureDateCardSelector(props: AdventureDateCardSelect
                 transition={{ duration: 0.2 }}
               >
                 <div className="rounded-2xl bg-white px-12 py-8 shadow-lg text-center">
-                  <h2 className="text-2xl font-serif font-bold text-amber-900">Here's Your Adventure</h2>
+                  <h2 className="text-2xl font-serif font-bold text-amber-900">Here's Our Adventure</h2>
                   <p className="mt-2 text-amber-800">
                     Your selections:
                   </p>
